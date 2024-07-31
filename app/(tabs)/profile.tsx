@@ -11,8 +11,8 @@ export default function Profile() {
           // style={styles.reactLogo}
         />
       }>
-      <Text>
-      Profile
+      <Text className="text-center">
+        Profile1
       </Text>
     </ParallaxScrollView>
   )
